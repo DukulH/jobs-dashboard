@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Dev Jobs Board",
+  title: "Jobs Board",
   description: "Live LinkedIn developer job listings — Software / Fullstack / Backend, SF & Dhaka",
 };
 
